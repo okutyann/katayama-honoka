@@ -1,6 +1,6 @@
 👋 Hi, I’m @okutyann
 
-レジュメ→https://www.resume.id/oomi_resume/works
+resume→https://www.resume.id/oomi_resume/works
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
